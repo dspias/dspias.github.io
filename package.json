@@ -1,7 +1,7 @@
 {
   "name": "dspias",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://dspias.github.io/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.13",
