@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   description: "Pias's protfolio...",
   icons: [
     {
-      url: "/favicon.ico",
-      href: "/favicon.ico",
+      url: "./favicon.ico",
+      href: "./favicon.ico",
     },
   ],
 };
